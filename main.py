@@ -1,5 +1,5 @@
 # Подлючаем класс парсера WordstatParser, импортируем необходимые модули
-from wsparser1 import WordstatParser
+from wordstatparser import WordstatParser
 import time
 
 geodict = {0: 'Весь мир', 225: 'Россия', 3: 'Центр', 1: 'Москва и область', 213: 'Москва',
